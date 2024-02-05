@@ -4,8 +4,8 @@ Ce projet est une application Spring Boot qui expose une API REST pour gérer le
 
 ## Configuration
 
-- Java 11
-- Spring Boot 2.6.3
+- Java 17
+- Spring Boot 3.2.3-SNAPSHOT
 - Base de données H2 (en mémoire)
 
 ## Installation
